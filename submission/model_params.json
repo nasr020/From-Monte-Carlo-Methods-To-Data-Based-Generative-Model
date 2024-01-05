@@ -1,0 +1,1 @@
+{"generator": {"num_layers": 1, "neurons_per_layer": [16], "hidden_activation": ["relu"], "output_activation": "softplus"}, "discriminator": {"num_layers": 1, "neurons_per_layer": [64], "hidden_activation": ["leaky_relu"], "output_activation": "sigmoid"}, "latent_dim": 100}

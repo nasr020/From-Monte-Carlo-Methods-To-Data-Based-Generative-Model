@@ -1,0 +1,2 @@
+name,g_number_layer,g_number_neuron,g_hidden_activation,g_output_activation,d_number_layer,d_number_neuron,d_hidden_activation,d_output_activation,latent_dim,mean_anderling_distance,mean_kendall_tau
+Generator_16_relu_softplus_Discriminator_64_leaky_relu_sigmoid_LatentDim_100,1,[16],['relu'],softplus,1,[64],['leaky_relu'],sigmoid,100,0.37501724224629757,0.08027703306523681
