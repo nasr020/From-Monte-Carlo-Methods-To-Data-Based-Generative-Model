@@ -1,6 +1,6 @@
-# MCMC Project
+# From Monte Carlo Methods To Data Based Generative Model Project
 
-This repository contains the code and documentation for the MCMC project, which explores various statistical and machine learning methods to model extreme fiancial market returns. The project includes implementations of Cholesky Decomposition, Gaussian Mixture Models (GMM), and Generative Adversarial Networks (GAN), and is focused on analyzing and generating synthetic financial market data.
+This repository contains the code and documentation for the MCMC project, which explores various statistical and machine learning methods to model extreme fiancial market returns. The project includes implementations of Cholesky Decomposition, Gaussian Mixture Models GMM, and Generative Adversarial Networks GAN, and is focused on analyzing and generating synthetic financial market data.
 
 ## Project Structure
 
